@@ -8,7 +8,6 @@ Motivation
 2. Enable clients to enter their information and retrieve it
 
 Tech/framework used
-Built with
 -Tomcat
 -Gradle
 -Java 8
