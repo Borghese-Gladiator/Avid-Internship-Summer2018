@@ -23,5 +23,5 @@ How to use?
   -Delete http://localhost:8080/ProfileManagerMongoDB/rest/ProfileService/delete
   -Modify http://localhost:8080/ProfileManagerMongoDB/rest/ProfileService/modify
   -Search http://localhost:8080/ProfileManagerMongoDB/rest/ProfileService/search
-3. 
+
 Timothy_Shee
