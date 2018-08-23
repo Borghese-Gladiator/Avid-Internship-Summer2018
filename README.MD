@@ -18,11 +18,11 @@ Tech/framework used:   Tomcat, Gradle, Java 8, MongoDB
 How to use?
 1. Start up Tomcat
 2. Call functions with URL http://localhost:8080/ProfileManagerMongoDB/rest/ProfileService
-  -Add http://localhost:8080/ProfileManagerMongoDB/rest/ProfileService/add
-  -Retrieve http://localhost:8080/ProfileManagerMongoDB/rest/ProfileService/get
-  -List All http://localhost:8080/ProfileManagerMongoDB/rest/ProfileService/list
-  -Delete http://localhost:8080/ProfileManagerMongoDB/rest/ProfileService/delete
-  -Modify http://localhost:8080/ProfileManagerMongoDB/rest/ProfileService/modify
-  -Search http://localhost:8080/ProfileManagerMongoDB/rest/ProfileService/search
-
+   http://localhost:8080/ProfileManagerMongoDB/rest/ProfileService/add
+  -Add http://localhost:8080/ProfileManagerMongoDB/rest/ProfileService/get
+  -Retrieve http://localhost:8080/ProfileManagerMongoDB/rest/ProfileService/list
+  -List Allhttp://localhost:8080/ProfileManagerMongoDB/rest/ProfileService/delete
+  -Delete  http://localhost:8080/ProfileManagerMongoDB/rest/ProfileService/modify
+  -Modify http://localhost:8080/ProfileManagerMongoDB/rest/ProfileService/search
+  -Search
 Timothy_Shee
