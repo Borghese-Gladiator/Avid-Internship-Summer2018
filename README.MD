@@ -21,7 +21,7 @@ How to use?
    http://localhost:8080/ProfileManagerMongoDB/rest/ProfileService/add
   -Add http://localhost:8080/ProfileManagerMongoDB/rest/ProfileService/get
   -Retrieve http://localhost:8080/ProfileManagerMongoDB/rest/ProfileService/list
-  -List Allhttp://localhost:8080/ProfileManagerMongoDB/rest/ProfileService/delete
+  -List All http://localhost:8080/ProfileManagerMongoDB/rest/ProfileService/delete
   -Delete  http://localhost:8080/ProfileManagerMongoDB/rest/ProfileService/modify
   -Modify http://localhost:8080/ProfileManagerMongoDB/rest/ProfileService/search
   -Search
