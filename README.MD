@@ -26,8 +26,4 @@ How to use?
   -Modify http://localhost:8080/ProfileManagerMongoDB/rest/ProfileService/search
   -Search
   
-
-
-
-
 Timothy_Shee
