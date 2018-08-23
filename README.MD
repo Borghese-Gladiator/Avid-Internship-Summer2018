@@ -7,11 +7,7 @@ Motivation
 1. Created for GitLab migration from ACCUREV and to upload binaries to nexus (and generate nexuslink.properties files)
 2. Enable clients to enter their information and retrieve it
 
-Tech/framework used
--Tomcat
--Gradle
--Java 8
--MongoDB
+Tech/framework used:   Tomcat, Gradle, Java 8, MongoDB
 
 How to use?
 1. Start up Tomcat
