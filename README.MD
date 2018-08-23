@@ -5,6 +5,12 @@ Repository Contains Two Projects
 
 Motivation
 1. Created for GitLab migration from ACCUREV and to upload binaries to nexus (and generate nexuslink.properties files)
+Tech/framework used:  Powershell ISE
+How to use?
+1. Configure .ps1 files to meet your needs
+2. Run scripts
+
+
 2. Enable clients to enter their information and retrieve it
 
 Tech/framework used:   Tomcat, Gradle, Java 8, MongoDB
