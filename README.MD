@@ -15,7 +15,9 @@ Tech/framework used:   Tomcat, Gradle, Java 8, MongoDB
 
 How to use?
 1. Start up Tomcat
-2. Call functions with a REST client through URL http://localhost:8080/ProfileManagerMongoDB/rest/ProfileService
+2. Call functions with a REST client through URL  
+   http://localhost:8080/ProfileManagerMongoDB/rest/ProfileService
+   
    http://localhost:8080/ProfileManagerMongoDB/rest/ProfileService/add
   -Add http://localhost:8080/ProfileManagerMongoDB/rest/ProfileService/get
   -Retrieve http://localhost:8080/ProfileManagerMongoDB/rest/ProfileService/list
