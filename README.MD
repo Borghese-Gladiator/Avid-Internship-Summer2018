@@ -1,3 +1,5 @@
+# Avid-Internship-Summer2018
+# August 2018
 Repository Contains Two Projects
 1. Powershell scripts to recursively search a directory and package files with certain extensions
 2. Profile Manager written with MongoDB
